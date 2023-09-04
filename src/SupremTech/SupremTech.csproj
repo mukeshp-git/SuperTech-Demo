@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SupremTech.Domain\SupremTech.Domain.csproj" />
+    <ProjectReference Include="..\SupremTech.EntityFrameworkCore\SupremTech.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\SupremTech.Repositories.Contracts\SupremTech.Repositories.Contracts.csproj" />
+    <ProjectReference Include="..\SupremTech.Repositories\SupremTech.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

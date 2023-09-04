@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mtEwJpN97luAbXwsYfTdEEWXdP8deuj/wRpfkvYctzXuvjJCayMgaVaEKnDGbStQBb8MtFdYr2qfuXDuR8s4QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mukesh-Papneja\\source\\repos\\SupremTech\\src\\SupremTech.Domain\\SupremTech.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mukesh-Papneja\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mukesh-Papneja\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.5.0\\swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
+    "C:\\Users\\Mukesh-Papneja\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Mukesh-Papneja\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
